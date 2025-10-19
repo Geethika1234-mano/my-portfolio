@@ -23,7 +23,7 @@ export default function Hero() {
           <a href="#projects" className="inline-flex items-center gap-2 rounded-2xl bg-white text-neutral-900 px-4 py-2 font-medium hover:bg-white/90">
             See my work <ArrowRight className="h-4 w-4" />
           </a>
-          <a href="/Geethika_Sewwandi_CV.pdf" className="inline-flex items-center gap-2 rounded-2xl border border-white/10 px-4 py-2 hover:bg-white/5">
+          <a href="/Geethika-Sewwandi.pdf" className="inline-flex items-center gap-2 rounded-2xl border border-white/10 px-4 py-2 hover:bg-white/5">
             Download CV
           </a>
         </motion.div>
@@ -31,3 +31,4 @@ export default function Hero() {
     </section>
   )
 }
+
